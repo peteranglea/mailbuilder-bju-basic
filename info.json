@@ -1,0 +1,390 @@
+{
+  "name": "BJU Main Template (BASIC)",
+  "components": {
+    "code": {
+      "name": "Custom HTML",
+      "fields": {
+        "code": {
+          "value": "",
+          "type": "textarea",
+          "label": "HTML"
+        }
+      }
+    },
+    "header": {
+      "name": "Header"
+    },
+    "footer": {
+      "name": "Footer"
+    },
+    "hero-image": {
+      "name": "Hero Image",
+      "fields": {
+        "alt": {
+          "value": "",
+          "type": "text",
+          "label": "Alt text"
+        },
+        "src": {
+          "value": "http://placehold.it/600x250",
+          "type": "text",
+          "label": "Image source"
+        },
+        "url": {
+          "value": "",
+          "type": "text",
+          "label": "URL (optional)"
+        }
+      }
+    },
+    "text-banner": {
+      "name": "Text Banner",
+      "fields": {
+        "heading": {
+          "value": "Captivating headline goes here!",
+          "type": "text",
+          "label": "Heading text"
+        },
+        "subheading": {
+          "value": "",
+          "type": "text",
+          "label": "Subheading text (optional)"
+        },
+        "bgcolor": {
+          "value": "#00b5ef",
+          "type": "text",
+          "label": "Background color"
+        }
+      }
+    },
+    "one-column-open": {
+      "name": "One Column Open",
+      "fields": {
+        "bgcolor": {
+          "value": "",
+          "type": "text",
+          "label": "Background color"
+        },
+        "padding": {
+          "value": "",
+          "type": "text",
+          "label": "Cell padding"
+        }
+      }
+    },
+    "one-column-close": {
+      "name": "One Column Close"
+    },
+    "heading1": {
+      "name": "Heading 1",
+      "fields": {
+        "text": {
+          "value": "**Lorem ipsum dolor sit amet**",
+          "type": "text",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        },
+        "textalign": {
+          "value": "",
+          "type": "text",
+          "label": "Text alignment"
+        }
+      }
+    },
+    "heading2": {
+      "name": "Heading 2",
+      "fields": {
+        "text": {
+          "value": "**Lorem ipsum dolor sit amet**",
+          "type": "text",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        },
+        "textalign": {
+          "value": "",
+          "type": "text",
+          "label": "Text alignment"
+        }
+      }
+    },
+    "paragraph": {
+      "name": "Text Paragraph",
+      "fields": {
+        "text": {
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "textarea",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        },
+        "textalign": {
+          "value": "",
+          "type": "text",
+          "label": "Text alignment"
+        }
+      }
+    },
+    "bulleted-list": {
+      "name": "Bulleted List",
+      "fields": {
+        "text": {
+          "value": "* Lorem ipsum dolor sit amet\n* Consectetur adipisicing elit\n* Sed do eiusmod tempor incididunt",
+          "type": "textarea",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        }
+      }
+    },
+    "numbered-list": {
+      "name": "Numbered List",
+      "fields": {
+        "text": {
+          "value": "* Lorem ipsum dolor sit amet\n* Consectetur adipisicing elit\n* Sed do eiusmod tempor incididunt",
+          "type": "textarea",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        }
+      }
+    },
+    "bordered-text": {
+      "name": "Bordered Text",
+      "fields": {
+        "text": {
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "textarea",
+          "label": "Text"
+        },
+        "bordercolor": {
+          "value": "",
+          "type": "text",
+          "label": "Border color"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Text color"
+        },
+        "textalign": {
+          "value": "",
+          "type": "text",
+          "label": "Text alignment"
+        }
+      }
+    },
+    "blockquote": {
+      "name": "Blockquote",
+      "fields": {
+        "text": {
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "textarea",
+          "label": "Text"
+        },
+        "fontsize": {
+          "value": "",
+          "type": "text",
+          "label": "Font size"
+        },
+        "lineheight": {
+          "value": "",
+          "type": "text",
+          "label": "Line height"
+        },
+        "fontstack": {
+          "value": "",
+          "type": "text",
+          "label": "Font stack"
+        },
+        "color": {
+          "value": "",
+          "type": "text",
+          "label": "Color"
+        },
+        "textalign": {
+          "value": "",
+          "type": "text",
+          "label": "Text alignment"
+        }
+      }
+    },
+    "button": {
+      "name": "Button",
+      "fields": {
+        "text": {
+          "value": "Click here!",
+          "type": "text",
+          "label": "Text"
+        },
+        "url": {
+          "value": "http://www.bju.edu",
+          "type": "text",
+          "label": "URL"
+        },
+        "bgcolor": {
+          "value": "",
+          "type": "text",
+          "label": "Background color"
+        },
+        "textcolor": {
+          "value": "",
+          "type": "text",
+          "label": "Text color"
+        },
+        "align": {
+          "value": "",
+          "type": "text",
+          "label": "Alignment"
+        },
+        "width": {
+          "value": "",
+          "type": "text",
+          "label": "Width"
+        }
+      }
+    },
+    "line-break": {
+      "name": "Line Break"
+    },
+    "full-width-open": {
+      "name": "Full-Width Section Open",
+      "fields": {
+        "bgcolor": {
+          "value": "#f0f6fa",
+          "type": "text",
+          "label": "Background color"
+        }
+      }
+    },
+    "full-width-close": {
+      "name": "Full-Width Section Close"
+    },
+    "image": {
+      "name": "Image",
+      "fields": {
+        "alt": {
+          "value": "",
+          "type": "text",
+          "label": "Alt text"
+        },
+        "src": {
+          "value": "http://placehold.it/560x200",
+          "type": "text",
+          "label": "Image source"
+        },
+        "url": {
+          "value": "",
+          "type": "text",
+          "label": "URL (optional)"
+        }
+      }
+    }
+  }
+}

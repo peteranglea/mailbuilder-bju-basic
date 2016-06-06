@@ -1,0 +1,40 @@
+{
+	"components": [
+		{
+			"name": "header"
+		},
+		{
+			"name": "hero-image"
+		},
+		{
+			"name": "text-heading"
+		},
+		{
+			"name": "one-column-open"
+		},
+		{
+			"name": "heading1"
+		},
+		{
+			"name": "heading2"
+		},
+		{
+			"name": "line-break"
+		},
+		{
+			"name": "paragraph"
+		},
+		{
+			"name": "line-break"
+		},
+		{
+			"name": "button"
+		},
+		{
+			"name": "one-column-close"
+		},
+		{
+			"name": "footer"
+		}
+	]
+}
